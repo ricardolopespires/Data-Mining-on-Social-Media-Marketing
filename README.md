@@ -1,9 +1,7 @@
 # Data-Mining-on-Social-Media-Marketing
 ![](http://pinaxproject.com/pinax-design/patches/pinax-badges.svg)
 
-# Pinax Badges
 
-[![](https://img.shields.io/pypi/v/pinax-badges.svg)](https://pypi.python.org/pypi/pinax-badges/)
 
 [![CircleCi](https://img.shields.io/circleci/project/github/pinax/pinax-badges.svg)](https://circleci.com/gh/pinax/pinax-badges)
 [![Codecov](https://img.shields.io/codecov/c/github/pinax/pinax-badges.svg)](https://codecov.io/gh/pinax/pinax-badges)
