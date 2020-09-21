@@ -1,11 +1,41 @@
 # Data-Mining-on-Social-Media-Marketing
 
+<br/>
 
-[![CircleCi](https://img.shields.io/circleci/project/github/pinax/pinax-badges.svg)](https://circleci.com/gh/pinax/pinax-badges)
-[![Codecov](https://img.shields.io/codecov/c/github/pinax/pinax-badges.svg)](https://codecov.io/gh/pinax/pinax-badges)
-[![](https://img.shields.io/github/contributors/pinax/pinax-badges.svg)](https://github.com/pinax/pinax-badges/graphs/contributors)
-[![](https://img.shields.io/github/issues-pr/pinax/pinax-badges.svg)](https://github.com/pinax/pinax-badges/pulls)
-[![](https://img.shields.io/github/issues-pr-closed/pinax/pinax-badges.svg)](https://github.com/pinax/pinax-badges/pulls?q=is%3Apr+is%3Aclosed)
+<br/>
 
-[![](http://slack.pinaxproject.com/badge.svg)](http://slack.pinaxproject.com/)
-[![](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+### Hey! Welcome to  Data Mining on Social Media Marketing 👋 
+<p align = 'left'>
+  <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Django">  
+  <img alt="" src="https://img.shields.io/github/repo-size/ricardolopespires/ricardolopespires" />    
+  <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/ricardolopespires/ricardolopespires" />
+  <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/ricardolopespires/ricardolopespires" />
+  <img alt="PyPI - Django Version" src="https://img.shields.io/pypi/djversions/djangorestframework"> 
+   <img align="right"  width= 250 src="https://github.com/ricardolopespires/Templates-Web/blob/master/banner2.png"/>  
+</p>
+
+<br/>
+
+- 💻 Python, Django, Data Science, Machine Learning, Marketing
+- ✨ Learning is continuous and there will always be a next level
+<br/>
+Passionate about the best technologies for web development Data Science, Machine Learninge e AI.....!
+
+Motivated by education and changing people's lives through programming.
+
+"Nothing more common than the failure of a talented genius is an unrecognized genius. Unrecognized geniuses are practically a cliché. Education can go beyond your thinking, because" Persistence and determination "together are powerful."
+
+<!--
+**ricardolopespires/ricardolopespires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
